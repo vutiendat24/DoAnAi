@@ -1,5 +1,5 @@
 cú pháp chạy giao dien: cd Caro 
-                        npm run dev 
+               sau đó: npm run dev 
 
 cú pháp chạy server: cd server
-                    uvicorn main:app --reload
+          sau đó:   uvicorn main:app --reload
