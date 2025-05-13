@@ -1,0 +1,1 @@
+numpy>=1.21.0 flask>=2.0.0 torch==2.0.1+cu121; sys_platform != 'darwin' torchvision==0.15.2+cu121; sys_platform != 'darwin' torchaudio==2.0.2+cu121; sys_platform != 'darwin'
